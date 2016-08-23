@@ -1,0 +1,1 @@
+# rails-js-and-turbolinks
